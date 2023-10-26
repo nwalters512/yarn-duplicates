@@ -1,2 +1,3 @@
 # yarn-duplicates
-Detect duplicate dependencies in a Yarn project
+
+Detect duplicate dependencies in a Yarn project.

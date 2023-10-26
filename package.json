@@ -1,0 +1,11 @@
+{
+  "name": "yarn-duplicates",
+  "version": "1.0.0",
+  "description": "Detect duplicate dependencies in a Yarn project",
+  "main": "index.js",
+  "repository": "git@github.com:nwalters512/yarn-duplicates.git",
+  "author": "Nathan Walters <nwalters512@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "packageManager": "yarn@4.0.0"
+}
